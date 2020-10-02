@@ -5,3 +5,6 @@ data/languages/8085.cspec||GHIDRA||||END|
 data/languages/8085.ldefs||GHIDRA||reviewed||END|
 data/languages/8085.pspec||GHIDRA||reviewed||END|
 data/languages/8085.slaspec||GHIDRA||||END|
+data/languages/8085_additional.sinc||GHIDRA||||END|
+data/languages/8085_common.sinc||GHIDRA||||END|
+data/languages/8085_unofficial.slaspec||GHIDRA||||END|
