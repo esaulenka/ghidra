@@ -33,7 +33,7 @@ define register offset=0x30 size=1 [ C AC F0 F1 BS ];  # single bit
 
 define register offset=0x80 size=4 bankreg;
 define context bankreg
-  DBF=(0,1)
+  DBF=(0,0)
 ;
 
 ################################################################
